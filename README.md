@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amaankf" target="blank"><img src="https://img.shields.io/twitter/follow/amaankf?logo=twitter&style=for-the-badge" alt="amaankf" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack E-commerce website with admin access**
+- 🔭 I’m currently working on **Multiple projects on the front end to sharpen my skills in it**
 
 - 🌱 I’m currently learning **MERN,**
 
